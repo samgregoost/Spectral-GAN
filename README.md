@@ -15,7 +15,7 @@ Point-clouds are a popular choice for vision and graphics tasks due to their acc
 3. Train:
 > python main.py --mode=train
 4. Evaluate:
-> python main.py mode==evaluate
+> python main.py --mode=evaluate
 
 ## Citation
 
