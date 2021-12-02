@@ -1,7 +1,6 @@
 # Spectral-GAN
 
-Tensorflow implementation of [Spectral-GANs for High-Resolution 3D Point-cloud Generation](https://arxiv.org/pdf/1912.01800.pdf)
-
+Tensorflow implementation of [Spectral-GANs for High-Resolution 3D Point-cloud Generation](https://arxiv.org/pdf/1912.01800.pdf) (IROS 2020)
 
 
 ## Introduction
@@ -19,9 +18,9 @@ Point-clouds are a popular choice for vision and graphics tasks due to their acc
 
 ## Citation
 
->@article{ramasinghe2019spectral,
+>@article{ramasinghe2020spectral,
   title={Spectral-GANs for High-Resolution 3D Point-cloud Generation},
   author={Ramasinghe, Sameera and Khan, Salman and Barnes, Nick and Gould, Stephen},
-  journal={arXiv preprint arXiv:1912.01800},
-  year={2019}
+  journal={IEEE/RSJ Intenrational Conference on Robots and Systems (IROS)},
+  year={2020}
 }
